@@ -6,7 +6,7 @@
 **Location:** Oslo, Norway
 
 - Responsible for development efforts within MailMojo, an advanced email marketing tool.
-- Utilized Python, Flask, JavaScript, React, Jinja2, Docker, RQ jobs, and Redis to architect and implement robust solutions for enhancing email marketing capabilities.
+- Utilizing Python, Flask, JavaScript, React, Jinja2, Docker, RQ jobs, and Redis to architect and implement robust solutions for enhancing email marketing capabilities.
 
 
 ### [CYRISK](https://cyrisk.com/)
