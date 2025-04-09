@@ -1,12 +1,18 @@
 ## Key Business Projects I've Contributed To
 
-
 ### [MAILMOJO](https://mailmojo.no/)
-**Duration:** Aug 2023 – Present  
+**Duration:** Jun 2024 – Present  
 **Location:** Oslo, Norway
 
-- Responsible for development efforts within MailMojo, an advanced email marketing tool.
-- Utilizing Python, Flask, JavaScript, React, Jinja2, Docker, RQ jobs, and Redis to architect and implement robust solutions for enhancing email marketing capabilities.
+- Responsible for development efforts within UpStacked, an advanced network monitoring tool.
+- Using Python, Django, React, Jinja2, Docker, Microservice, and RabbitMQ.
+
+### [MAILMOJO](https://mailmojo.no/)
+**Duration:** Aug 2023 – Jun 2024  
+**Location:** Oslo, Norway
+
+- Developed MailMojo, an advanced email marketing tool.
+- Used Python, Flask, JavaScript, React, Jinja2, Docker, RQ jobs, and Redis to architect and implement robust solutions for enhancing email marketing capabilities.
 
 
 ### [CYRISK](https://cyrisk.com/)
