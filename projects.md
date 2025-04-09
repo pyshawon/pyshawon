@@ -1,6 +1,6 @@
 ## Key Business Projects I've Contributed To
 
-### [MAILMOJO](https://mailmojo.no/)
+### [UpStacked](https://dev.upstacked.com/)
 **Duration:** Jun 2024 – Present  
 **Location:** Oslo, Norway
 
